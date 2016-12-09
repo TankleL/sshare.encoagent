@@ -1,0 +1,7 @@
+-e ../../test/file1.jpg 5 3
+-d ../../test/out/ ../../test/file1.jpg-ssA ../../test/file1.jpg-ssB ../../test/file1.jpg-ssD
+
+-e ../../test/TestContent.txt 5 3
+-d ../../test/out/ ../../test/TestContent.txt-ssA ../../test/TestContent.txt-ssB ../../test/TestContent.txt-ssD
+
+-d ../../test/out/ ../../test/TestContent.txt-ssA ../../test/TestContent.txt-ssB ../../test/TestContent.txt-ssD ../../test/file1.jpg-ssA ../../test/file1.jpg-ssB ../../test/file1.jpg-ssD
